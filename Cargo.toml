@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-differential-backup"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS differential-backup component - backup"
+
+[lib]
+name = "differential_backup"
+path = "src/lib.rs"
