@@ -3,7 +3,7 @@ name = "SigmaOS-differential-backup"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "differential-backup component"
+description = "Differential Backup"
 upstream = []
 
 [contract]
